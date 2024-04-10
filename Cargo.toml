@@ -6,7 +6,7 @@ license-file = "LICENSE"
 description = "Rust bindings for wpa_supplicant"
 homepage = "https://github.com/keogami/wpa_supplicant-sys"
 repository = "https://github.com/keogami/wpa_supplicant-sys"
-documentation = "https://doc.rs/wpa_supplicant-sys"
+documentation = "https://docs.rs/wpa_supplicant-sys"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
